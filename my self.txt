@@ -1,22 +1,28 @@
 <!DOCTYPE html>
- <html>
- <head><b>My Self</b></head>
- <body> <h1>About Me</h1> 
-<p>My name is <mark>"Ratan.M.Vemula</mark>.I stay at Lower Parel(west) Mumbai.My current age is 21. In my family there are 3 members my father and mother and me.</p>
- <h4>Hobbies</h4> 
-<div>
- <p>I love to play football.My favourite player is <mark>"Cristiano Ronaldo"</mark>.</p>
- <p>
- <ol>
- <li>Travelling</li> 
-<li>Foodie</li>
- <li>Reading Books</li>
- </ol> 
-</p> 
-</div> 
-<h3>Education</h3>
- <p>I am a graduated student from Mumbai University, VSIT.</p>
- <h4>Work Experience</h4>
- <p>Freshers.Currently studying Full stack course in "IT Vedant".</p>
- </body> 
+<html>
+    <head><b>My Self</b></head>
+    <body>
+        <h1>About Me</h1>
+        <p>My name is <mark>"Ratan.M.Vemula</mark>.I stay at Lower Parel(west) Mumbai.My current age is 21. In my family there are 3 members my father and mother and me.</p>
+        
+
+            <h4>Hobbies</h4>
+            <div>
+            <p>I love to play football.My favourite player is <mark>"Cristiano Ronaldo"</mark>.</p>
+            <p>
+                <ol>
+                    <li>Travelling</li>
+                    <li>Foodie</li>
+                    <li>Reading Books</li>
+                </ol>
+            </p>
+        </div>
+
+        <h3>Education</h3>
+        <p>I am a graduated student from Mumbai University, VSIT.</p>
+
+        <h4>Work Experience</h4>
+        <p>Freshers.Currently studying Full stack course in "IT Vedant".</p>
+    </body>
 </html>
+
